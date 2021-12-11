@@ -1,0 +1,39 @@
+h1{
+    color: darkorchid;
+    margin-top: inherit;
+    margin-bottom: inherit;
+    margin-left: inherit;
+    margin-right: inherit;
+    outline-style: dot-dash;
+    outline: #5c7080;
+    outline-width: 2px;
+    padding: 3px;
+    box-sizing:initial;
+}
+
+h3{
+    color: red;
+    color-interpolation: linearRGB;
+    border-bottom-color: #0077cc;
+    border-bottom-width: 2px;
+    border-right-width: 2px;
+    background:greenyellow;
+}
+
+h4{
+    color: #8B2252;
+    outline: red;
+    outline-style: dot-dash;
+
+}
+
+body{
+    background-color: hotpink;
+    font-size: 15px;
+    font-family: 'fantasy', sans-serif;
+    font-weight: 450 !important;
+
+
+
+
+}
